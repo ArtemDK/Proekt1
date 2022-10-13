@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-Console.Write("Количество строк, которые вы хотите ввести: ");
+Console.Write("Задайте количество строк, которые вы хотите ввести: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int size = 0;
 string[] massiv = new string[n];
