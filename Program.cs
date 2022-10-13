@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-Console.Write("Количество строк, которые хотите ввести: ");
+Console.Write("Количество строк, которые вы хотите ввести: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int size = 0;
 string[] massiv = new string[n];
@@ -12,7 +12,6 @@ for (int i = 0; i < n; i++)
 
 string[] createMass = NewMassCreate(massiv, size);
 NewMasPrint(massiv, createMass);
-
 
 string[] NewMassCreate(string[] array, int a)
 {
