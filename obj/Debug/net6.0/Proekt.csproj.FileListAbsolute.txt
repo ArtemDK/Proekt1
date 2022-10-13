@@ -1,0 +1,15 @@
+C:\work\distr\EDUCATION\Proekt1\Proekt\bin\Debug\net6.0\Proekt.exe
+C:\work\distr\EDUCATION\Proekt1\Proekt\bin\Debug\net6.0\Proekt.deps.json
+C:\work\distr\EDUCATION\Proekt1\Proekt\bin\Debug\net6.0\Proekt.runtimeconfig.json
+C:\work\distr\EDUCATION\Proekt1\Proekt\bin\Debug\net6.0\Proekt.dll
+C:\work\distr\EDUCATION\Proekt1\Proekt\bin\Debug\net6.0\Proekt.pdb
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.csproj.AssemblyReference.cache
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.AssemblyInfoInputs.cache
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.AssemblyInfo.cs
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.csproj.CoreCompileInputs.cache
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.dll
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\refint\Proekt.dll
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.pdb
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\Proekt.genruntimeconfig.cache
+C:\work\distr\EDUCATION\Proekt1\Proekt\obj\Debug\net6.0\ref\Proekt.dll
