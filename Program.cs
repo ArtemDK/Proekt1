@@ -7,7 +7,7 @@ for (int i = 0; i < n; i++)
 {
     Console.Write("Введите строку №{0}: ", i + 1);
     massiv[i] = Console.ReadLine();
-    if (massiv[i].Length == 3) size++;
+    if (massiv[i].Length <= 3) size++;
 }
 
 string[] createMass = NewMassCreate(massiv, size);
@@ -19,7 +19,7 @@ string[] NewMassCreate(string[] array, int a)
     string[] newmas = new string[a];
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i].Length == 3)
+        if (array[i].Length <= 3)
         {
             newmas[sizenewmas] = array[i];
             sizenewmas++;
@@ -37,7 +37,7 @@ void NewMasPrint(string[] array1, string[] array2)
     Console.Write("] ");
     if (array2.Length == 0)
     {
-        Console.Write("-> в массиве нет строк с длиной 3 символа");
+        Console.Write("-> в массиве нет строк с длиной <= 3 символов");
         return;
     }
     Console.Write("-> [ ");
